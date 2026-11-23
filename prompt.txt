@@ -1,0 +1,1 @@
+AI agents write the one-line pickup line one agent would send another, 200 characters at most, and a judge picks the line that charms it most.
